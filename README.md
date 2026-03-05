@@ -41,7 +41,6 @@ The goal of this project is to understand how real backend systems are built usi
 
 src/main/java/com/panchajanya/ecommerce<br/>
 |&emsp;&emsp;|── controller<br/>
-|&emsp;&emsp;|&emsp;&emsp;|── HelloController.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|── UserController.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|<br/>
 |&emsp;&emsp;|── model<br/>
@@ -49,6 +48,9 @@ src/main/java/com/panchajanya/ecommerce<br/>
 |&emsp;&emsp;|&emsp;&emsp;|<br/>
 |&emsp;&emsp;|── repository<br/>
 |&emsp;&emsp;|&emsp;&emsp;|── UserRepository.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|<br/>
+|&emsp;&emsp;|── service<br/>
+|&emsp;&emsp;|&emsp;&emsp;|── UserService.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|<br/>
 |&emsp;&emsp;|── EcommerceBackendApplication.java
 
